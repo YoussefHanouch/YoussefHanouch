@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @YoussefHanouch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+name: Commit automatique chaque jour
 
-<!---
-YoussefHanouch/YoussefHanouch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+on:
+  schedule:
+    - cron: '0 8 * * *' # tous les jours à 08:00 UTC
+  workflow_dispatch: # permet un déclenchement manuel aussi
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cloner le dépôt
+        uses: actions/checkout@v3
+
+      - name: Mettre à jour un fichier
+        run: |
+          echo "Mise à jour : $(date)" >> log.txt
+
+      - name: Configurer Git
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+
+      - name: Commit et push
+        run: |
+          git add .
+          git commit -m "Commit automatique du jour" || echo "Rien à valider"
+          git push
