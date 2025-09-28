@@ -1,60 +1,101 @@
-# 👋 Hey there, I'm Youssef Hanouch!
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm Youssef Hanouch | Hallo, ich bin Youssef Hanouch 👋</h1>
+<h3 align="center">🚀 Full-Stack Developer | Laravel & React.js Enthusiast | Freelancer at Learning m3ana | Based in Meknes 🇲🇦</h3>
 
-**`Full-Stack Developer | Laravel & React.js Enthusiast`**
-
-I'm passionate about building responsive web applications and crafting solutions for real-world problems. I'm a lifelong learner, always eager to explore new technologies and contribute to meaningful projects.
-
----
-
-### 🛠️ Technologies & Tools
-
-**Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Backend:**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Freelancer-Learning%20m3ana-green?style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=YoussefHanouch&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
 
 ---
 
-### 📂 Featured Projects
+## 🧑‍💻 About Me | Über mich
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Projet_GymBros](https://github.com/Youssef-Hanouch/Projet_GymBros)** | A comprehensive gym management application. | `PHP` `JavaScript` `CSS` |
-| **[Station_Manager](https://github.com/Youssef-Hanouch/Station_Manager)** | A system for managing service stations. | `CSS` `PHP` `JavaScript` |
-| **[Gestion_de_restaurant](https://github.com/Youssef-Hanouch/Gestion_de_restaurant)** | Restaurant management system. | `PHP` `JavaScript` |
+**🇬🇧 English:**  
+I'm a passionate **Full-Stack Developer** who loves creating modern, responsive, and user-friendly web applications.  
+I specialize in **Laravel & React.js**, and I enjoy solving real problems through code.  
+I believe that technology is a tool to **empower people and build better learning experiences**.
 
----
-
-### 📊 GitHub Stats
-
-<!-- You can generate this using services like https://github.com/anuraghazra/github-readme-stats -->
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssef-Hanouch&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Hanouch&layout=compact&theme=radical)
+**🇩🇪 Deutsch:**  
+Ich bin ein leidenschaftlicher **Full-Stack-Entwickler**, der moderne, responsive und benutzerfreundliche Webanwendungen entwickelt.  
+Ich spezialisiere mich auf **Laravel & React.js** und löse gerne reale Probleme mit Code.  
+Ich glaube, dass Technologie ein Werkzeug ist, um **Menschen zu unterstützen und bessere Lernerfahrungen zu schaffen**.
 
 ---
 
-### 🌐 Connect with Me
+## 🛠️ Tech Stack | Technologien
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hanouch/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YoussefHanouch)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://youssefhanouch.com)
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
 
 ---
 
-### 💡 Currently Learning
+## 📚 Experience & Projects | Erfahrung & Projekte
 
-- Advanced React Patterns & State Management
-- Backend Architecture & System Design
-- Cybersecurity Fundamentals
+- 🧑‍🏫 **Freelancer @ Learning m3ana**  
+  Supporting Moroccan students in web development & digital infrastructure.  
+  → Building educational platforms and support systems.
 
-> *"The only way to do great work is to love what you do."* - Steve Jobs
+- 🌐 **Personal Projects**  
+  - Full-Stack web apps with Laravel & React.js  
+  - Responsive landing pages for digital training  
+  - Educational dashboards for students
+
+- 🚀 **Focus Areas**  
+  - Fast prototyping of MVPs  
+  - Modern UI/UX with Tailwind CSS  
+  - API integration and authentication systems
+
+---
+
+## 🌟 Highlights | Highlights
+
+- ✅ Built multiple full-stack educational apps from scratch  
+- ✨ Excellent at creating clean, responsive UI for learning platforms  
+- 🌍 Trilingual: Arabic 🇲🇦 | French 🇫🇷 | English 🇬🇧 (learning Deutsch 🇩🇪)  
+- 🧠 Always learning new tech and exploring creative solutions
+
+---
+
+## 📈 GitHub Stats | GitHub Statistik
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefHanouch&show_icons=true&theme=radical&count_private=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefHanouch&layout=compact&theme=radical" height="170px" />
+</p>
+
+---
+
+## 📫 Contact Me | Kontakt
+
+<p align="center">
+  <a href="mailto:youssefhanouch8@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/YoussefHanouch"><img src="https://img.shields.io/badge/GitHub-YoussefHanouch-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/youssef-hanouch"><img src="https://img.shields.io/badge/LinkedIn-Youssef%20Hanouch-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+📍 **Location:** Meknes, Morocco  
+📧 **Email:** youssefhanouch8@gmail.com  
+📱 **Phone:** +212 6 18 31 33 52  
+
+---
+
+## ⚡ Fun Fact
+> I love solving algorithm problems at night 🌙, building cool side projects 🚧, and helping others learn 🧑‍🏫.
+
+---
+
+⭐️ **_“Code. Learn. Share. Repeat.”_**  
