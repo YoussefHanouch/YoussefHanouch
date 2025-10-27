@@ -87,9 +87,11 @@ Ich glaube, dass Technologie ein Werkzeug ist, um **Menschen zu unterstützen un
   <a href="https://www.linkedin.com/in/youssef-hanouch"><img src="https://img.shields.io/badge/LinkedIn-Youssef%20Hanouch-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
-📍 **Location:** Meknes, Morocco  
-📧 **Email:** youssefhanouch8@gmail.com  
-📱 **Phone:** +212 6 18 31 33 52  
+📍 Location: Meknes, Morocco
+📧 Email: youssefhanouch8@gmail.com
+
+📱 Phone: +212 6 18 31 33 52
+🌐 Portfolio: youssef-hanouch.vercel.app
 
 ---
 
