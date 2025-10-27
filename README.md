@@ -87,11 +87,11 @@ Ich glaube, dass Technologie ein Werkzeug ist, um **Menschen zu unterstützen un
   <a href="https://www.linkedin.com/in/youssef-hanouch"><img src="https://img.shields.io/badge/LinkedIn-Youssef%20Hanouch-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
-📍 Location: Meknes, Morocco
-📧 Email: youssefhanouch8@gmail.com
+<p>📍 <strong>Location:</strong> Meknes, Morocco</p>
+<p>📧 <strong>Email:</strong> <a href="mailto:youssefhanouch8@gmail.com">youssefhanouch8@gmail.com</a></p>
+<p>📱 <strong>Phone:</strong> <a href="tel:+212618313352">+212 6 18 31 33 52</a></p>
+<p>💻 <strong>Portfolio:</strong> <a href="https://youssef-hanouch.vercel.app" target="_blank">youssef-hanouch.vercel.app</a></p>
 
-📱 Phone: +212 6 18 31 33 52
-🌐 Portfolio: youssef-hanouch.vercel.app
 
 ---
 
